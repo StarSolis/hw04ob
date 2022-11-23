@@ -1,0 +1,10 @@
+#articulo-1, #super-1 {
+        color: red;
+}
+#articulo-1 a{
+    text-decoration: none;
+    color: red;
+}
+#articulo-1 {
+    font-size:  2rem;
+}
